@@ -29,8 +29,8 @@ h1{
         font-weight: 600;
         text-align: center;
         position: absolute;
-        left: 420px;
-        top: 270px;
+        left: 500px;
+        top: 330px;
 
 
     }
@@ -44,9 +44,9 @@ h1{
     .nome{
         text-align: center;
         }
-        div{
-            border: 2px solid green;
-        }
-        
+    ul li:nth-child(odd){
+        background-color: #fff;
+    }
+      
         
     
